@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "token": "BOT TOKEN",
+        "botSesKanal": "BOTUN GİRİCEGİ KANAL İD",
+        "BotOwner": ["KENDİ İD NİZ",""]
+    },
+    
+    "roles": {
+        "çekilişrole": "VAMPİR KÖYLÜ İD",
+        "etkinlikrole": "DOĞRULUK CESARET İD"
+        
+    }
+}
